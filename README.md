@@ -14,6 +14,7 @@ Modules pré-requis et conseillés pour l'installation du module PN 2ed :
 - Dice So Nice! (https://foundryvtt.com/packages/dice-so-nice)
 
 Testé et créer sous CSB 4.4.2 et Foundry V12 Build 331
+
 -----------------------------------------------------
 ETAPES INSTALLATION MODULE SUR FOUNDRY
 -----------------------------------------------------
@@ -30,6 +31,8 @@ ETAPES INSTALLATION MODULE SUR FOUNDRY
 3) Crèer un monde sous le système "Custom System Builder"
 
 4) Activer le module "pavillon-noir-2ed" dans votre monde.
+
+<img src="[images/mon-image.png](https://cdn.discordapp.com/attachments/1276676151355375726/1383506498956558467/Screenshot_17.png?ex=684f0a55&is=684db8d5&hm=1cbbc5e2fd2bda5a90669c02156737003c33c6795adb5e001ceaddb2f0f98c8a&)" >
 
 -----------------------------------------------------
 MISE EN PLACE DU MODULE DANS VOTRE MONDE
