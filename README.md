@@ -13,12 +13,13 @@ Modules pré-requis et conseillés pour l'installation du module PN 2ed :
 - Custom System Builder (https://foundryvtt.com/packages/custom-system-builder)
 - Dice So Nice! (https://foundryvtt.com/packages/dice-so-nice)
 
+Testé et créer sous CSB 4.4.2 et Foundry V12 Build 331
 -----------------------------------------------------
 ETAPES INSTALLATION MODULE SUR FOUNDRY
 -----------------------------------------------------
 1) Télécharger/Dezipper le module "pavillon-noir-2ed"
 
-2) Placer le dossier dans le dossier modules de Foundry VTT : 
+2) Placer le dossier "pavillon-noir-2ed" dans votre dossier modules de Foundry VTT : 
 
 - Sur Windows : Par défaut, {userData} se trouve dans C:\Users\<VotreNom>\AppData\Local\FoundryVTT\Data\modules
 
@@ -36,9 +37,21 @@ MISE EN PLACE DU MODULE DANS VOTRE MONDE
 
 1) Depuis l'onglet Compendiums : 
 
-- Selectionner et Glisser vers Actors/Acteurs le dossier Template Fiches Acteurs
+- Selectionner le dossier "Template Fiches Acteurs" et le glisser dans l'ongletActors/Acteurs 
 
-- Selectionner et Glisser vers Items le dossier Template Items Armes
+- Selectionner le dossier "Template Items Armes" et le glisser dans l'onglet Items 
 
-- Selectionner et Glisser vers les macros (dossier a gauche de la barre de raccourci) le dossier Macros Pavillon Noir 2ed
+- Selectionner le dossier "Macros Pavillon Noir 2ed" et le glisser vers les macros (dossier a gauche de la barre de raccourci)
 
+-----------------------------------------------------
+CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
+-----------------------------------------------------
+1) Depuis l'onglet Actors/Acteur, créer un Acteur, puis séléctionnez le type d'acteur (Fiche Joueur/Fiche Navire/Fiche PNJ) à créer, et rafraichissez la fiche.
+
+La taille des images pour les avatars sur la fiche Personnage/PNJ : 140*140px
+La taille des image pour les avatars sur la fiche Navire : 250*140px
+
+-----------------------------------------------------
+ITEMS ARMES
+-----------------------------------------------------
+Si vous souhaitez doté un de vos personnages d'une arme, vous pouvez la glisser déposer depuis l'onglet Items vers la fiche de personnage dans l'onglet combat.
