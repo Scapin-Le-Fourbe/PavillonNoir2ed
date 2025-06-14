@@ -46,6 +46,12 @@ MISE EN PLACE DU MODULE DANS VOTRE MONDE
 
 - Selectionner le dossier "Macros Pavillon Noir 2ed" et le glisser vers les macros (dossier a gauche de la barre de raccourci)
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mr6DTr0m/Screenshot-16.png" alt="Screenshot-16" border="0"></a>
+
+<a href="https://ibb.co/Q7D8bqsR"><img src="https://i.ibb.co/XfYy2dmg/Screenshot-18.png" alt="Screenshot-18" border="0"></a>
+<a href="https://ibb.co/dwxfjtPp"><img src="https://i.ibb.co/4n3FK28S/Screenshot-20.png" alt="Screenshot-20" border="0"></a>
+<a href="https://ibb.co/CKV7SSs4"><img src="https://i.ibb.co/PG1hVVzJ/Screenshot-21.png" alt="Screenshot-21" border="0"></a>
+
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
 -----------------------------------------------------
