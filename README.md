@@ -20,9 +20,11 @@ ETAPES INSTALLATION MODULE SUR FOUNDRY
 
 2) Placer le dossier dans le dossier modules de Foundry VTT : 
 
-Sur Windows : Par défaut, {userData} se trouve dans C:\Users\<VotreNom>\AppData\Local\FoundryVTT\Data\modules
-Sur MacOS : Par défaut, {userData} est dans ~/Library/Application Support/FoundryVTT/
-Sur Linux : Par défaut, {userData} est dans ~/.local/share/FoundryVTT/
+- Sur Windows : Par défaut, {userData} se trouve dans C:\Users\<VotreNom>\AppData\Local\FoundryVTT\Data\modules
+
+- Sur MacOS : Par défaut, {userData} est dans ~/Library/Application Support/FoundryVTT/
+
+- Sur Linux : Par défaut, {userData} est dans ~/.local/share/FoundryVTT/
 
 3) Crèer un monde sous le système "Custom System Builder"
 
