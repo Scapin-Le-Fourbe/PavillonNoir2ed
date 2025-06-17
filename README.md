@@ -28,9 +28,11 @@ ETAPES INSTALLATION MODULE SUR FOUNDRY
 
 - Sur Linux : Par défaut, {userData} est dans ~/.local/share/FoundryVTT/
 
-3) Crèer un monde sous le système "Custom System Builder"
+3) Installez la police d'écriture AqulineTwo, qui se trouve ici : pavillon-noir-2ed\PavillonNoir\font
 
-4) Activer le module "pavillon-noir-2ed" dans votre monde.
+4) Crèer un monde sous le système "Custom System Builder"
+
+5) Activer le module "pavillon-noir-2ed" dans votre monde.
 
 <a href="https://ibb.co/b5jsB9Wz"><img src="https://i.ibb.co/9HmbT58s/Screenshot-17.png" alt="Screenshot-17" border="0"></a>
 
