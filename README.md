@@ -7,12 +7,12 @@ Voici les étapes à réaliser pour installer le module Pavillon Noir 2 ème éd
 -----------------------------------------------------
 SOMMAIRE
 -----------------------------------------------------
-- Introduction et prè-requis
-- Installation
-- Mise en place du module
-- Créer une fiche personnage
-- Les armes
-- Conclusion et remerciements
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#introduction">Introduction et prè-requis</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#etapes-installation-module-sur-foundry">Installation</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#mise-en-place-du-module-dans-votre-monde">Mise en place du module</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#creer-une-fiche-personnage--pnj--navire">Créer une fiche personnage</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#items-armes">Les armes</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#conclusion-et-remerciements">Conclusion et remerciements</a>
 
 -----------------------------------------------------
 INTRODUCTION
