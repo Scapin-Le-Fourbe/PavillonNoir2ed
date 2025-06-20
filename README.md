@@ -20,6 +20,7 @@ INTRODUCTION
 Modules pré-requis et conseillés pour l'installation du module PN 2ed : 
 
 - Custom System Builder (https://foundryvtt.com/packages/custom-system-builder)
+- Requestor (https://foundryvtt.com/packages/requestor)
 - Dice So Nice! (https://foundryvtt.com/packages/dice-so-nice)
 
 Testé et créer sous CSB 4.4.2 et Foundry V12 Build 331
