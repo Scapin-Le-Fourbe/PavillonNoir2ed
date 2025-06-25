@@ -52,25 +52,25 @@ MISE EN PLACE DU MODULE DANS VOTRE MONDE
 
 1) Depuis l'onglet Compendiums : 
 
-- Selectionner le Compendium "Template Acteur" puis le dossier "Template Fiches Acteurs" et le glisser dans l'ongletActors/Acteurs 
+- Selectionner le Compendium "Installation Module" puis le fichier "installation Module Pavillon Noir"
 
-- Selectionner le Compendium "Items" puis le dossier "Template Items Armes", "Armes Blanches" et "Armes de Tir" et les glisser dans l'onglet Items
+- Cliquez sur Execute Macro et laisser l'installation se dérouler quelques secondes, jusqu'a ce que les notifications disparaisse
 
-- Selectionner le Compendium "</> Macros PN" puis le dossier "Macros Pavillon Noir 2ed" et le glisser vers les macros (dossier a gauche de la barre de raccourci)
+<a href="https://ibb.co/DDFmrpDs"><img src="https://i.ibb.co/ynCK4SnG/Installation.png" alt="Installation" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mr6DTr0m/Screenshot-16.png" border="0"></a>
+2) Modifier les autorisations d'éxécution des macros depuis la fênetre des macros, sur la gauche de la barre de raccourcis, comme ceci : 
 
-<a href="https://ibb.co/Q7D8bqsR"><img src="https://i.ibb.co/XfYy2dmg/Screenshot-18.png" border="0"></a>
-<a href="https://ibb.co/dwxfjtPp"><img src="https://i.ibb.co/4n3FK28S/Screenshot-20.png" border="0"></a>
-<a href="https://ibb.co/CKV7SSs4"><img src="https://i.ibb.co/PG1hVVzJ/Screenshot-21.png" border="0"></a>
+<a href="https://ibb.co/TqPY9VqP"><img src="https://i.ibb.co/dJkj8dJk/Autorisation-Macro.png" alt="Autorisation-Macro" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DHRhRwc7/Autorisation-Macro-02.png" alt="Autorisation-Macro-02" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" alt="Autorisation-Macro-03" border="0"></a>
 
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
 -----------------------------------------------------
 1) Depuis l'onglet Actors/Acteur, créer un Acteur, puis séléctionnez le type d'acteur (Fiche Joueur/Fiche Navire/Fiche PNJ) à créer, et rafraichissez la fiche.
 
-La taille des images pour les avatars sur la fiche Personnage/PNJ : 140*140px
-La taille des image pour les avatars sur la fiche Navire : 250*140px
+La taille des images pour les avatars sur la fiche Personnage/PNJ : 140x140px
+La taille des image pour les avatars sur la fiche Navire : 250x140px
 
 <a href="https://ibb.co/BHCDR1D2"><img src="https://i.ibb.co/HLHvQJvT/Screenshot-23.png" border="0"></a>
 <a href="https://ibb.co/9kVf62J5"><img src="https://i.ibb.co/W4PdZFQJ/Screenshot-24.png" border="0"></a>
