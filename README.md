@@ -62,10 +62,13 @@ MISE EN PLACE DU MODULE DANS VOTRE MONDE
 
 <a href="https://ibb.co/TqPY9VqP"><img src="https://i.ibb.co/dJkj8dJk/Autorisation-Macro.png" border="0"></a>
 
-Avec un clic droit : 
+Avec un clic droit sur le dossier "Macros Pavillon Noir": 
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DHRhRwc7/Autorisation-Macro-02.png" border="0"></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" border="0"></a>
+
+Sauvegarder vos changements.
 
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
