@@ -66,9 +66,11 @@ Avec un clic droit sur le dossier "Macros Pavillon Noir":
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DHRhRwc7/Autorisation-Macro-02.png" border="0"></a>
 
+Choisissez Owner/Propriétaire
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" border="0"></a>
 
-Sauvegarder vos changements.
+Sauvegarder vos changements (Save Changes).
 
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
@@ -80,6 +82,8 @@ La taille des image pour les avatars sur la fiche Navire : 250x140px
 
 <a href="https://ibb.co/BHCDR1D2"><img src="https://i.ibb.co/HLHvQJvT/Screenshot-23.png" border="0"></a>
 <a href="https://ibb.co/9kVf62J5"><img src="https://i.ibb.co/W4PdZFQJ/Screenshot-24.png" border="0"></a>
+
+PS : Si en cliquant sur une des compétences, vous avez "la compétence XXX n'existe pas", passez une des compétences au score de 0, et cela débloquera tous les lancer de compétences. Ceci n'arrive qu'en cas de fiche vierge
 
 -----------------------------------------------------
 ITEMS ARMES
