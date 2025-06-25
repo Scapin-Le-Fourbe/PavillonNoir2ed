@@ -60,9 +60,12 @@ MISE EN PLACE DU MODULE DANS VOTRE MONDE
 
 2) Modifier les autorisations d'éxécution des macros depuis la fênetre des macros, sur la gauche de la barre de raccourcis, comme ceci : 
 
-<a href="https://ibb.co/TqPY9VqP"><img src="https://i.ibb.co/dJkj8dJk/Autorisation-Macro.png" alt="Autorisation-Macro" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DHRhRwc7/Autorisation-Macro-02.png" alt="Autorisation-Macro-02" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" alt="Autorisation-Macro-03" border="0"></a>
+<a href="https://ibb.co/TqPY9VqP"><img src="https://i.ibb.co/dJkj8dJk/Autorisation-Macro.png" border="0"></a>
+
+Avec un clic droit : 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DHRhRwc7/Autorisation-Macro-02.png" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" border="0"></a>
 
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
