@@ -96,9 +96,9 @@ Si vous souhaitez doté un de vos personnages d'une arme, vous pouvez la glisser
 -----------------------------------------------------
 INFOS DIVERSES MJ
 -----------------------------------------------------
-Maître de jeu, vous avez des macros disponibles pour vous aider dans vos parties, les macros sont nommés : 
+Maître de jeu, vous avez des macros spécifiques disponibles pour vous aider dans vos parties, les macros sont nommés : 
 
-- Générateur Nom PNJ : Vous donnera un nom de PNJ aléatoire dans le chat (uniquement visible par les MJ)
+- Générateur Nom PNJ : Vous donnera un nom et prénom de PNJ aléatoire dans le chat (uniquement visible par les MJ)
 - LancerDesEquipagePNJ : Vous permet de fairte différent tests inhérents à un groupe type de PNJ que vos joueurs peuvent rencontrer (cf Tableau AFAS p133.)
 
 Depuis la fenetre des macros (a gauche de la barre de raccourci) vous pouvez cliquez-glissez la macro vers votre barre de raccourci pour l'utiliser.
