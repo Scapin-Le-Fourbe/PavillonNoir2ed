@@ -90,7 +90,7 @@ La taille des image pour les avatars sur la fiche Navire : 250x140px
 
 <a href="https://ibb.co/BHCDR1D2"><img src="https://i.ibb.co/HLHvQJvT/Screenshot-23.png" border="0"></a>
 
-<a href="https://ibb.co/9kVf62J5"><img src="https://i.ibb.co/W4PdZFQJ/Screenshot-24.png" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bRCBsSRr/Screenshot-11.png" alt="Screenshot-11" border="0"></a>
 
 PS : Si en cliquant sur une des compétences, vous avez "la compétence XXX n'existe pas", passez une des compétences au score de 0, et cela débloquera tous les lancer de compétences. Ceci n'arrive qu'en cas de fiche vierge
 
