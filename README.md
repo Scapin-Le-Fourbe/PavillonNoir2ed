@@ -50,7 +50,7 @@ ETAPES INSTALLATION MODULE SUR FOUNDRY
 MISE EN PLACE DU MODULE DANS VOTRE MONDE
 -----------------------------------------------------
 
-1) Depuis l'onglet Compendiums : 
+1) Depuis l'onglet Compendium Packs : 
 
 - Selectionner le Compendium "Installation Module" puis le fichier "installation Module Pavillon Noir"
 
@@ -71,6 +71,14 @@ Choisissez Owner/Propriétaire
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cS4jMfyf/Autorisation-Macro-03.png" border="0"></a>
 
 Sauvegarder vos changements (Save Changes).
+
+2) Depuis l'onglet Compendium Packs, importer manuellement les items et leurs templates :
+
+- Selectionner le Compendium "Items"
+- Glisser les dossiers Template Armes CaC, Template Armes Distances, 01 - Armes CaC et 02 - Armes Distance dans votre onglet items de Foundry
+
+<a href="https://ibb.co/8nKkNszJ"><img src="https://i.ibb.co/RGv8Ybh1/Screenshot-10.png" border="0"></a>
+
 
 -----------------------------------------------------
 CREER UNE FICHE PERSONNAGE / PNJ / NAVIRE
