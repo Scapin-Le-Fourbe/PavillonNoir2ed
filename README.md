@@ -5,7 +5,7 @@
 # Pavillon Noir 2ème édition - Module pour Foundry VTT
 Module Foundry VTT pour le jeu de rôle Pavillon Noir 2ème édition
 
-Bonjour Pirates ! 
+Ahoy Pirates, Flibustiers et Frères de la Côte ! 
 
 Voici les étapes à réaliser pour installer le module Pavillon Noir 2 ème édition sur Foundry VTT : 
 -----------------------------------------------------
