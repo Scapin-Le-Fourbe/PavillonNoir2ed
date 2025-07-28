@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Z6TfM0Pd"><img src="https://i.ibb.co/N6YFyMPx/Background-Scene-Principale.webp" alt="Background-Scene-Principale" border="0"></a>
+<a href="https://ibb.co/Z6TfM0Pd"><img src="https://i.ibb.co/N6YFyMPx/Background-Scene-Principale.webp"></a>
 
 # Pavillon Noir 2ème édition - Module pour Foundry VTT
 Module Foundry VTT pour le jeu de rôle Pavillon Noir 2ème édition
