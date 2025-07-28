@@ -125,13 +125,15 @@ Je souhaite remercier :
 - Renaud Maroy, créateur du JDR Pavillon Noir, qui nous à honoré d'un travail dantesque et documenté à la limite de l'encyclopédie sur la Marine et le monde de la piraterie. 
 - Black Book Edition (BBE) pour l'édition de ce jeu et le travail fabuleux qui a été fait sur les différents livres (si vous avez une version physique pour moi, je suis preneur :D)
 - LinkedFluuuush pour la création de son module CSB, sans qui, le portage de multiples JDR n'existeraient pas.
-- Le Discord FR de Foundry VTT et à tout ceux qui partagent leur expertise pour aider les débutants à se lancer dans la création et la passion pour le JDR.
-
+- Le Discord FR de Foundry VTT, spécialement le channel CSB, et à tout ceux qui partagent leur expertise pour aider les débutants à se lancer dans la création et la passion pour le JDR.
+- Le Discord FR de Pavillon Noir pour leurs conseils et soutien.
 - Amatheus/Mickael, pour ses idées, son aide, son soutien, son approche et aide graphique sur le projet. Son site internet : https://amatheus.fr/
 - Lucky/SoLeKalt, pour ses conseils, pour son amour du JDR et sa façon singulière de toujours vouloir me pousser à "le faire", même si ça prends une semaine de plus de taff.
 - Aux autres copains et copines (qui se reconnaitront), et qui supporte mon amour pour la piraterie et mes " Hey mais tu savais pourquoi certains pirates porte le cache-oeil ?! Alors écoute bien .." à trois heures du mat'
 
 Et merci à vous, d'avoir été jusqu'ici et peut être, fait rêver d'autres personnes dans vos parties, sur cet univers fantastique qu'est le JDR, la piraterie, et la camaraderie.
+
+Si vous voulez m'offrir un café, c'est par ici que çà se passe ;) Merci à tous ! https://ko-fi.com/scapin
 
 
 
