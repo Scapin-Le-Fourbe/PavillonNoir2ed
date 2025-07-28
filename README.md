@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/N6YFyMPx/Background-Scene-Principale.webp" alt="Background Scene Principale">
+  <img src="https://i.ibb.co/N6YFyMPx/Background-Scene-Principale.webp" alt="Background Scene Principale" width="900">
 </p>
 
 # Pavillon Noir 2ème édition - Module pour Foundry VTT
