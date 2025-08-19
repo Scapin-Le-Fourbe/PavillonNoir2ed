@@ -27,7 +27,7 @@ Modules pré-requis et conseillés pour l'installation du module PN 2ed :
 - Requestor (https://foundryvtt.com/packages/requestor)
 - Dice So Nice! (https://foundryvtt.com/packages/dice-so-nice)
 
-Pour ceux utilisant les cartes d'escrime, un module pour leurs gestions : 
+Pour ceux utilisant les cartes d'escrime, un module intéréssant pour leurs gestions : 
 - Card Hands List (https://foundryvtt.com/packages/card-hands-list)
 
 Testé et créé sous : 
