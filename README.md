@@ -23,11 +23,14 @@ INTRODUCTION
 -----------------------------------------------------
 Modules pré-requis et conseillés pour l'installation du module PN 2ed : 
 
-- Custom System Builder (https://foundryvtt.com/packages/custom-system-builder)
+- Custom System Builder 4.4.2 ([https://foundryvtt.com/packages/custom-system-builder](https://gitlab.com/custom-system-builder/custom-system-builder/-/releases/4.4.2/downloads/system.json))
 - Requestor (https://foundryvtt.com/packages/requestor)
 - Dice So Nice! (https://foundryvtt.com/packages/dice-so-nice)
 
-Testé et créer sous CSB 4.4.2 et Foundry V12 Build 331
+Pour ceux utilisant les cartes d'escrime, un module pour leurs gestions : 
+- Card Hands List (https://foundryvtt.com/packages/card-hands-list)
+
+Testé et créer sous CSB 4.4.2
 
 -----------------------------------------------------
 ETAPES INSTALLATION MODULE SUR FOUNDRY
