@@ -30,7 +30,9 @@ Modules pré-requis et conseillés pour l'installation du module PN 2ed :
 Pour ceux utilisant les cartes d'escrime, un module pour leurs gestions : 
 - Card Hands List (https://foundryvtt.com/packages/card-hands-list)
 
-Testé et créé sous CSB 4.4.2
+Testé et créé sous : 
+Foundry VTT 12.343
+CSB 4.4.2
 
 -----------------------------------------------------
 ETAPES INSTALLATION MODULE SUR FOUNDRY
