@@ -115,18 +115,24 @@ Si vous souhaitez doter un de vos personnages d'une arme, vous pouvez la glisser
 -----------------------------------------------------
 MODIFIER L'INITIATIVE DANS CSB
 -----------------------------------------------------
-De base, l’initiative de chaque personnage est déterminée par un lancer de D20 sur CSB.
+### Initiative dans Custom System Builder (CSB)
 
-Vous pouvez modifier la valeur d’initiative en allant dans :
-Onglet Game Settings > Configure Settings > Custom System Builder > Initiative Formula
+De base, l’initiative de chaque personnage est **déterminée** par un lancer de **D20** sur CSB.
 
-Les règles de PN 2ème édition indiquent que l’initiative est égale à la valeur d’adaptabilité du personnage.
-Si vous voulez jouer avec ces règles, modifiez la formule dans Initiative Formula par : score_adaptabilite
+#### Comment modifier la formule
 
-Personnellement, pour avoir des combats et des initiatives qui changent d’un combat à l’autre et qu’un personnage ne soit pas toujours le même à engager le combat, etc., j’ajoute de la RNG en mettant comme formule : score_adaptabilite + [1d20]
+Vous pouvez modifier la valeur d’initiative en allant dans :  
+**Game Settings** → **Configure Settings** → **Custom System Builder** → **Initiative Formula**
 
-L’initiative est donc calculée selon le score d’adaptabilité du personnage + 1D20 et permet d’avoir un ordre d’action toujours différent, rendant les combats plus incertains et forçant les joueurs à appréhender chaque rencontre différement.
+#### Règles officielles de Pavillon Noir 2ᵉ édition
 
+Les règles de **PN 2ᵉ édition** indiquent que l’initiative est égale à la valeur d’**adaptabilité** du personnage.
+
+Si vous voulez jouer avec ces règles, remplacez la formule dans **Initiative Formula** par :
+
+```text
+score_adaptabilite
+```
 
 -----------------------------------------------------
 INFOS DIVERSES MJ
