@@ -16,6 +16,7 @@ SOMMAIRE
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#mise-en-place-du-module-dans-votre-monde">Mise en place du module</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#creer-une-fiche-personnage--pnj--navire">Créer une fiche personnage</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#items-armes">Les armes</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#MODIFIER-L'INITIATIVE-DANS-CSB">Modifier l'initiative</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#conclusion-et-remerciements">Conclusion et remerciements</a>
 
 -----------------------------------------------------
@@ -112,6 +113,21 @@ Si vous souhaitez doter un de vos personnages d'une arme, vous pouvez la glisser
 <a href="https://ibb.co/qYrv3K3M"><img src="https://i.ibb.co/QvK43L3F/Screenshot-25.png" border="0"></a>
 
 -----------------------------------------------------
+MODIFIER L'INITIATIVE DANS CSB
+-----------------------------------------------------
+De base, l’initiative de chaque personnage est déterminée par un lancer de D20 sur CSB.
+
+Vous pouvez modifier la valeur d’initiative en allant dans :
+Onglet Game Settings > Configure Settings > Custom System Builder > Initiative Formula
+
+Les règles de PN 2ème édition indiquent que l’initiative est égale à la valeur d’adaptabilité du personnage.
+Si vous voulez jouer avec ces règles, modifiez la formule dans Initiative Formula par : score_adaptabilite
+
+Personnellement, pour avoir des combats et des initiatives qui changent d’un combat à l’autre et qu’un personnage ne soit pas toujours le même à engager le combat, etc., j’ajoute de la RNG en mettant comme formule : score_adaptabilite + [1d20]
+L’initiative est donc calculée selon le score d’adaptabilité du personnage + 1D20 et permet d’avoir un ordre d’action toujours différent, rendant les combats plus incertains et forçant les joueurs à appréhender chaque rencontre différement.
+
+
+-----------------------------------------------------
 INFOS DIVERSES MJ
 -----------------------------------------------------
 Maître de jeu, vous avez des macros spécifiques disponibles pour vous aider dans vos parties, les macros sont nommés : 
@@ -120,6 +136,8 @@ Maître de jeu, vous avez des macros spécifiques disponibles pour vous aider da
 - LancerDesEquipagePNJ : Vous permet de faire différents tests inhérents à un groupe type de PNJ que vos joueurs peuvent rencontrer (cf Tableau AFAS p133.)
 
 Depuis la fenêtre des macros (a gauche de la barre de raccourci) vous pouvez cliquez-glissez la macro vers votre barre de raccourci pour l'utiliser.
+
+
 
 -----------------------------------------------------
 CONCLUSION ET REMERCIEMENTS
