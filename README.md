@@ -134,6 +134,18 @@ Si vous voulez jouer avec ces règles, remplacez la formule dans **Initiative Fo
 score_adaptabilite
 ```
 
+#### Ma recommandation personnelle
+
+Personnellement, pour avoir des combats et des initiatives qui changent vraiment d’un combat à l’autre (et qu’un personnage ne soit pas toujours le même à engager le combat, etc.), j’ajoute de la RNG avec la formule suivante :
+
+```text
+score_adaptabilite + [1d20]
+```
+
+L’initiative est donc calculée selon le score d’adaptabilité du personnage + 1D20.
+Cela permet d’avoir un ordre d’action toujours différent, rend les combats plus incertains et force les joueurs à appréhender chaque rencontre différemment.
+
+
 -----------------------------------------------------
 INFOS DIVERSES MJ
 -----------------------------------------------------
