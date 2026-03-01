@@ -16,7 +16,7 @@ SOMMAIRE
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#mise-en-place-du-module-dans-votre-monde">Mise en place du module</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#creer-une-fiche-personnage--pnj--navire">Créer une fiche personnage</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#items-armes">Les armes</a>
-- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#MODIFIER-L'INITIATIVE-DANS-CSB">Modifier l'initiative</a>
+- <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#modifier-linitiative-dans-csb">Modifier l'initiative</a>
 - <a href="https://github.com/Scapin-Le-Fourbe/PavillonNoir2ed/blob/main/README.md#conclusion-et-remerciements">Conclusion et remerciements</a>
 
 -----------------------------------------------------
