@@ -124,6 +124,7 @@ Les règles de PN 2ème édition indiquent que l’initiative est égale à la v
 Si vous voulez jouer avec ces règles, modifiez la formule dans Initiative Formula par : score_adaptabilite
 
 Personnellement, pour avoir des combats et des initiatives qui changent d’un combat à l’autre et qu’un personnage ne soit pas toujours le même à engager le combat, etc., j’ajoute de la RNG en mettant comme formule : score_adaptabilite + [1d20]
+
 L’initiative est donc calculée selon le score d’adaptabilité du personnage + 1D20 et permet d’avoir un ordre d’action toujours différent, rendant les combats plus incertains et forçant les joueurs à appréhender chaque rencontre différement.
 
 
